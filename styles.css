@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+.haeschen {
+    width: 800px;
+    height: 600px;
+    background-size: cover;
+    display: inline-block;
+}
+
+.quellenangabe {
+    margin-top: 20px;
+}
